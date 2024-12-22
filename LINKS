@@ -1,0 +1,19 @@
+Links:
+[Resume](https://manaswinichittepu7.github.io/mchittep_python_project/lab/index.html?path=my_resume.pdf)
+
+[video][https://buffalo.app.box.com/s/2wbd2qdlw22ke0ekivtags40d90nzgs6]
+
+[final_code][https://colab.research.google.com/drive/1VTmn-K8axCV4CkoOQfODdP_4MAOeex9L#scrollTo=78895b1a-ded5-44ff-a83b-078d18c6d91f]
+
+[ML_FLOW][https://dagshub.com/manaswini.chittepu4/MANASWINI_PROJECT.mlflow/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D]
+
+[DagsHub][https://dagshub.com/manaswini.chittepu4/MANASWINI_PROJECT/experiments]
+
+[DockerHub Container][https://hub.docker.com/repository/docker/mchittep/lung-cancer-prediction-api/general]
+
+[deployed model][https://us-east-1.console.aws.amazon.com/apprunner/home?region=us-east-1#/services/dashboard?service_arn=arn%3Aaws%3Aapprunner%3Aus-east-1%3A207567773377%3Aservice%2Flung-cancer-prediction-api%2Fd82377f081214bad8ebdf531e7c1b148&active_tab=logs]
+
+[deployed_model_img][https://us-east-1.console.aws.amazon.com/ecr/repositories/private/207567773377/lung-cancer-prediction-api?region=us-east-1]
+
+[streamlit_app][https://manaswinichittepu7-python-proj-app-ce6uoo.streamlit.app/]
+
